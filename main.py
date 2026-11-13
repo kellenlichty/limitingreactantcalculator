@@ -7,8 +7,8 @@ set_site_information(
     author="Kellen Lichty",
     description="Takes in input values and calculates limiting reactant, theoretical yield, and percent yield.",
     sources="Thanks to the Drafter docs.",
-    planning=["plan.pdf", "design.pdf"],
-    links=["https://github.com/your-username/your-repository"]
+    planning=["CISC106 Class"],
+    links=["https://kellenlichty.github.io/limitingreactantcalculator/"]
 )
 hide_debug_information()
 set_website_framed(False)
